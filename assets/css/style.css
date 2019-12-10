@@ -26,6 +26,7 @@ footer {
 }
 H1 {
     font-family: 'Courgette', cursive;
+    color:#4aaaa5;
 }
 #PT1 {
     font-family: 'Contrail One', cursive;
@@ -50,4 +51,7 @@ H1 {
     background-color:#4aaaa5;
     margin-right:68px;
     margin-left:35px;
+}
+.navbar-brand {
+    background-color:#4aaaa5;
 }
