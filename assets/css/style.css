@@ -42,5 +42,12 @@ H1 {
 #des {
     font-family: 'Yesteryear', cursive;
     text-align:center;
-    font-size:30px;
+    font-size:20px;
+    position:relative;
+    bottom:60px;
+    right:20px;
+    color:white;
+    background-color:#4aaaa5;
+    margin-right:68px;
+    margin-left:35px;
 }
